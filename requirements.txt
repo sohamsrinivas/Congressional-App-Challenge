@@ -1,0 +1,11 @@
+streamlit>=1.36
+pandas
+numpy
+scikit-learn
+joblib
+textblob
+# Only needed if you ship the BERTopic artifact. Heavy; see README before enabling.
+# bertopic
+# sentence-transformers
+# hdbscan
+# umap-learn
